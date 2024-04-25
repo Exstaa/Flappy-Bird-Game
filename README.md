@@ -16,7 +16,7 @@ Game over screen with the option to restart.
 
 ## Installation
 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/flappy-bird.git
+git clone https://github.com/exstaa/flappy-bird.git
 2. Open the project in your preferred Java IDE (such as IntelliJ IDEA or Eclipse).
 
 ## Usage
